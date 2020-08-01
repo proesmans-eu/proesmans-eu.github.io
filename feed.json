@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Proesmans.eu",
+    "description": "",
+    "home_page_url": "https://proesmans-eu.github.io",
+    "feed_url": "https://proesmans-eu.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bert P"
+    },
+    "items": [
+        {
+            "id": "https://proesmans-eu.github.io/hello-world/",
+            "url": "https://proesmans-eu.github.io/hello-world/",
+            "title": "Hello World!",
+            "summary": "<h1 id=\"welcome-to-my-brand-new-blog\">Welcome to my brand new blog</h1>\n<p>This website is generated with the help of Publii</p>\n",
+            "content_html": "<h1 id=\"welcome-to-my-brand-new-blog\">Welcome to my brand new blog</h1>\n<p>This website is generated with the help of Publii</p>\n<hr id=\"read-more\" />\n\n<h2 id=\"content\">Content</h2>\n<p>This website will feature tales of daily struggles and random topics I think about.</p>\n<p>95th percentile of all content will be about computer science, that’s how I roll yo!</p>\n<ul>\n<li>Operating systems;</li>\n<li>Open protocols;</li>\n<li>Proprietary algorithms and protocols;</li>\n</ul>\n<h3 id=\"dev\">Dev</h3>\n<ol>\n<li>Open the Publii desktop app;</li>\n<li>Create a new post;</li>\n<li>Preview the post;</li>\n<li>Publish the website.</li>\n<li>Profit (in all non-monetary forms)</li>\n</ol>\n<pre><code class=\"language-rust\">fn main() -&gt; Result&lt;&amp;&#39;static str, ()&gt; {\n    Ok(&quot;Hello World&quot;)\n}</code></pre>\n",
+            "author": {
+                "name": "Bert P"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-01T15:10:15+02:00",
+            "date_modified": "2020-08-01T15:10:15+02:00"
+        }
+    ]
+}

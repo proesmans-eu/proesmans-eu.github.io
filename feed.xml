@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Proesmans.eu</title>
+    <link href="https://proesmans-eu.github.io/feed.xml" rel="self" />
+    <link href="https://proesmans-eu.github.io" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Bert P</name>
+    </author>
+    <id>https://proesmans-eu.github.io</id>
+
+    <entry>
+        <title>Hello World!</title>
+        <author>
+            <name>Bert P</name>
+        </author>
+        <link href="https://proesmans-eu.github.io/hello-world/"/>
+        <id>https://proesmans-eu.github.io/hello-world/</id>
+
+        <updated>2020-08-01T15:10:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <h1 id="welcome-to-my-brand-new-blog">Welcome to my brand new blog</h1>
+<p>This website is generated with the help of Publii</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="welcome-to-my-brand-new-blog">Welcome to my brand new blog</h1>
+<p>This website is generated with the help of Publii</p>
+<hr id="read-more" />
+
+<h2 id="content">Content</h2>
+<p>This website will feature tales of daily struggles and random topics I think about.</p>
+<p>95th percentile of all content will be about computer science, that’s how I roll yo!</p>
+<ul>
+<li>Operating systems;</li>
+<li>Open protocols;</li>
+<li>Proprietary algorithms and protocols;</li>
+</ul>
+<h3 id="dev">Dev</h3>
+<ol>
+<li>Open the Publii desktop app;</li>
+<li>Create a new post;</li>
+<li>Preview the post;</li>
+<li>Publish the website.</li>
+<li>Profit (in all non-monetary forms)</li>
+</ol>
+<pre><code class="language-rust">fn main() -&gt; Result&lt;&amp;&#39;static str, ()&gt; {
+    Ok(&quot;Hello World&quot;)
+}</code></pre>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
